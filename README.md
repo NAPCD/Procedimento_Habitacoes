@@ -56,6 +56,8 @@
   Por fim, para o cálculo da necessidade de retirada e/ou colocação de janela, considerou-se que todos os domicílios que recebessem o kit de revestimento e pintura externa, também receberiam um kit de retirada e/ou colocação de janela em seus cômodos que servem como dormitório.<br>
 </p>
 
+##
+
 <div align="center">
   <img align="center" alt="logo_napcd" height="150" style="border-radius:50px;" src="/img/NAPCD LOGO VERSOES-00.png">
   </div>
